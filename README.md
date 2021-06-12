@@ -7,6 +7,7 @@
 this is my first contribution.
 why the hell git bash is taking ages to push my changes.
 anyways lets try editing directly from git hub.
+2nd contribution...bash didnt work so using ubuntu instead.
 
 <!---
 Parthib-toppo/Parthib-toppo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
